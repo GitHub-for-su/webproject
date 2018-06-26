@@ -8,4 +8,5 @@ def f4():
 	print(4)
 def f5():
 	print(5)
-	
+def f6():
+	print(6)	
